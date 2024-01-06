@@ -1,0 +1,90 @@
+[
+    {
+        "_id": "a1@bC3dE",
+        "name": "Stylish T-Shirt",
+        "details": "A comfortable and stylish T-shirt made from high-quality cotton fabric.",
+        "image": "https://images.unsplash.com/photo-1618354691551-44de113f0164?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "popular",
+        "price": 29.99
+    },
+    {
+        "_id": "XyZ@789!",
+        "name": "Casual Jeans",
+        "details": "Classic and durable jeans for a casual and comfortable look.",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "normal",
+        "price": 49.99
+    },
+    {
+        "_id": "pQr$5tU",
+        "name": "Fashionable Dress",
+        "details": "An elegant and fashionable dress for special occasions and events.",
+        "image": "https://images.unsplash.com/photo-1618354691551-44de113f0164?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "popular",
+        "price": 69.99
+    },
+    {
+        "_id": "!123@xyz",
+        "name": "Formal Shirt",
+        "details": "Sophisticated formal shirt tailored for a professional and polished appearance.",
+        "image": "https://images.unsplash.com/photo-1618354691551-44de113f0164?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "normal",
+        "price": 39.99
+    },
+    {
+        "_id": "aBc$123",
+        "name": "Comfortable Hoodie",
+        "details": "Stay warm and cozy with this comfortable and stylish hoodie for chilly days.",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "popular",
+        "price": 54.99
+    },
+    {
+        "_id": "xyz@456#",
+        "name": "Athletic Shorts",
+        "details": "Perfect for workouts and casual activities, these athletic shorts provide comfort and flexibility.",
+        "image": "https://images.unsplash.com/photo-1618354691551-44de113f0164?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "normal",
+        "price": 24.99
+    },
+    {
+        "_id": "skirt@789",
+        "name": "Chic Skirt",
+        "details": "A chic and trendy skirt to elevate your style and make a fashion statement.",
+        "image": "https://images.unsplash.com/photo-1618354691551-44de113f0164?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "popular",
+        "price": 34.99
+    },
+    {
+        "_id": "sweater!456",
+        "name": "Cozy Sweater",
+        "details": "Stay warm in style with this cozy and fashionable sweater for colder days.",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "normal",
+        "price": 44.99
+    },
+    {
+        "_id": "shoes*789",
+        "name": "Classic Shoes",
+        "details": "Timeless and comfortable shoes for everyday use.",
+        "image": "https://images.unsplash.com/photo-1618354691551-44de113f0164?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "popular",
+        "price": 59.99
+    },
+    {
+        "_id": "hat@123",
+        "name": "Stylish Hat",
+        "details": "Complete your look with this stylish and trendy hat.",
+        "image": "https://images.unsplash.com/photo-1618354691551-44de113f0164?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "normal",
+        "price": 19.99
+    },
+    {
+        "_id": "watch#456",
+        "name": "Elegant Watch",
+        "details": "An elegant and sophisticated watch to enhance your style.",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "popular",
+        "price": 79.99
+    }
+]

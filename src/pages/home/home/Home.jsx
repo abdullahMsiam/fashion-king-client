@@ -1,11 +1,17 @@
-import React from 'react';
+import Featured from '../../featured/Featured';
 import Banner from '../banner/Banner';
+import Category from '../category/Category';
+import PopularItem from '../popularItem/PopularItem';
+import ReviewsTake from '../reviewsTake/ReviewsTake';
 
 const Home = () => {
     return (
         <div>
             <Banner />
-            <h1>This is our home</h1>
+            <Category />
+            <PopularItem />
+            <Featured />
+            <ReviewsTake />
         </div>
     );
 };

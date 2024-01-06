@@ -1,0 +1,7 @@
+.bg-featured {
+    background-image: url('../../assets/images/home/shop.jpg');
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}

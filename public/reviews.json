@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "j0hnD03*Sm1th",
+        "name": "John Doe",
+        "review": "Fashion King is a true gem! The variety of clothing is outstanding, and the quality is top-notch. The staff is friendly and helpful. I always find the perfect outfit for any occasion.",
+        "ratings": 4
+    },
+    {
+        "_id": "a1iC3y@B0lt",
+        "name": "Alice Taylor",
+        "review": "I love shopping at Fashion King! The stylish and trendy collection never disappoints. The ambiance of the store is fantastic, making the whole shopping experience enjoyable. Highly recommended!",
+        "ratings": 5
+    },
+    {
+        "_id": "m1ch@3lGr3en",
+        "name": "Michael Green",
+        "review": "Fashion King sets the standard for fashion excellence. The clothing range is diverse, catering to various styles. The attention to detail in the designs is impressive. A go-to destination for fashion enthusiasts!",
+        "ratings": 3
+    },
+    {
+        "_id": "s4r@hW1ll!ams",
+        "name": "Sarah Williams",
+        "review": "Shopping at Fashion King is always a pleasure. The curated selection of clothing reflects the latest trends, and the staff is knowledgeable about the products. I appreciate the quality and uniqueness of their items.",
+        "ratings": 5
+    },
+    {
+        "_id": "d@n13lR0s3",
+        "name": "Daniel Rose",
+        "review": "Fashion King stands out for its exceptional service and fashion-forward offerings. The clothing options are diverse, and the store layout is inviting. A must-visit for anyone passionate about staying on trend!",
+        "ratings": 4
+    },
+    {
+        "_id": "grac3H@ll",
+        "name": "Grace Hall",
+        "review": "I've been a loyal customer of Fashion King for years. The quality of the clothing is unmatched, and the prices are reasonable. The staff is always ready to assist, creating a delightful shopping experience.",
+        "ratings": 5
+    },
+    {
+        "_id": "luk3@w3st",
+        "name": "Luke West",
+        "review": "Fashion King is my favorite clothing store. The stylish options and unique designs set it apart. The staff is friendly, and the store's ambiance adds to the overall positive experience. I recommend it to all fashion enthusiasts!",
+        "ratings": 4
+    },
+    {
+        "_id": "em!lyP@rk",
+        "name": "Emily Park",
+        "review": "Fashion King consistently exceeds my expectations. The clothing is not only fashionable but also comfortable. The store's atmosphere is inviting, making it a joy to shop for the latest trends. A fantastic shopping destination!",
+        "ratings": 5
+    }
+]
