@@ -40,11 +40,12 @@ const ReviewsTake = () => {
                         key={review._id}>
                         <div className='px-11 mx-8 font-mono py-8'>
                             <Rating
-                                className='mx-auto'
+                                className='mx-auto py-0'
                                 style={{ maxWidth: 180 }}
                                 value={review.ratings}
                                 readOnly
                             />
+                            <h1 className='text-9xl font-extrabold text-black text-center -mt-10 mb-6 font-serif'>,,</h1>
                             <p className='text-black'>{review.review}</p>
                             <p className='text-xl font-semibold text-blue-600'>----{review.name}</p>
                         </div>

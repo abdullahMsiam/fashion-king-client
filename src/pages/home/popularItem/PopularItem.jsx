@@ -15,7 +15,7 @@ const PopularItem = () => {
             })
     }, [])
     return (
-        <section>
+        <section className="mb-5">
             <SectionTitle miniTitle={"Popular Fashion"} mainTitle={"- King Type Items -"} />
             <div className="grid md:grid-cols-2 gap-4">
                 {
